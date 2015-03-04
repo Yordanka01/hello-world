@@ -1,4 +1,4 @@
-emotional and positive person, ambitious and paying attention to details# hello-world
+# hello-world
 Hello everyone,
 It's nice to see you here!
 **********
